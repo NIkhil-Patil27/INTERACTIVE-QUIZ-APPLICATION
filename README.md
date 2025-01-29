@@ -48,4 +48,9 @@ support, syntax highlighting for HTML, CSS, and JavaScript, and debugging tools.
 Educational Platforms: This quiz application is ideal for educational purposes. Schools or online courses can use it to teach students about Shivaji Maharaj or any 
 other historical or educational subject. It can be integrated into learning management systems (LMS) as part of an interactive study module. Additionally, quizzes like
 this can be used to test students’ understanding after completing a lesson, and instant feedback helps learners identify areas where they need improvement.
-###
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a86c068d-f831-43ce-8483-2b4ae3219c1e)
+![Image](https://github.com/user-attachments/assets/b7139914-f5ca-4c56-a280-1e9d036a9911)
+![Image](https://github.com/user-attachments/assets/de42887e-a727-4570-bd81-c291ac9f75f7)
