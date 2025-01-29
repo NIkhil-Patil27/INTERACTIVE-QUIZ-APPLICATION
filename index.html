@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivaji Maharaj Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Shivaji Maharaj Quiz</h1>
+        <div id="quiz-container">
+            <div id="question-container">
+                <p id="question"></p>
+                <div id="answers">
+                    <!-- Answers will be dynamically inserted here -->
+                </div>
+            </div>
+            <div id="feedback"></div>
+            <button id="next-button" onclick="loadNextQuestion()">Next</button>
+        </div>
+        <div id="result">
+            <p>Your score: <span id="score">0</span></p>
+            <button id="retry-button" onclick="retryQuiz()">Retry</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
